@@ -1,0 +1,11 @@
+.subhead{
+font-family: 'Times New Roman', Times, serif;
+color: #00008B;
+font-size: 20px;
+}
+#box{
+    background-color: lightblue;
+}
+#name{
+    color: darkblue;
+}
